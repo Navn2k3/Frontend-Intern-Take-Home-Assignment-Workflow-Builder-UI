@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://build-smiles-app.lovable.app
+**URL**: https://stupendous-gumdrop-76482a.netlify.app/
 
 ## How can I edit this code?
 
